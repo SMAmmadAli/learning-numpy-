@@ -156,7 +156,7 @@ print(arr3)
 
 print(np.sqrt(arr1))
 
-print(arr1.sum())
+print(arr1.sum()) 
 
 print(np.where(arr1>30))
 
