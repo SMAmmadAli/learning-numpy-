@@ -1,0 +1,64 @@
+Date,Category,Amount,Description
+2023-01-01,Freelance,306,Freelance Project
+2023-01-02,Transport,84,Taxi
+2023-01-03,Rent,1200,Monthly Rent
+2023-01-05,Food,47,Restaurant
+2023-01-07,Transport,31,Taxi
+2023-01-10,Rent,null,Monthly Rent
+2023-01-12,Food,184,Restaurant
+2023-01-13,Rent,1200,Monthly Rent
+2023-01-14,Entertainment,60,null
+2023-01-15,Entertainment,141,Concert
+16/Jun/2014,Transport,18,Taxi
+2023-01-20,Transport,44,Fuel
+2023-01-21,Rent,1200,Monthly Rent
+2023-01-22,Rent,1200,Monthly Rent
+null,Entertainment,155,Concert
+2023-01-24,Salary,2981,Monthly Salary
+2023-01-25,Utilities,199,Internet
+2023-01-26,Rent,1200,Monthly Rent
+2023-01-28,Rent,1200,null
+2023-01-30,Food,54,Cafe
+2023-02-01,Utilities,148,Internet
+2023-02-03,Utilities, null,Internet
+2023-02-04,Transport,81,Fuel
+2023-02-05,Food,160,Cafe
+2023-02-06,Transport,44,Taxi
+2023-02-07,Food,140,Restaurant
+2023-02-08,Transport,151,Fuel
+2023-02-09,Entertainment,99,null
+2023-02-13,Rent,1200,Monthly Rent
+2023-02-14,Salary,2430,Monthly Salary
+2023-02-15,Entertainment,45,Movies
+2023-02-16,Transport,95,Fuel
+2023-02-17,Transport,194,Taxi
+2023-02-19,Food,199,Restaurant
+2023-02-20,Salary,2371,Monthly Salary
+2023-02-21,Salary,2408,Monthly Salary
+2023-02-23,Salary,2768,Monthly Salary
+2023-02-24,Food,146,Cafe
+2023-02-25,Transport,null,Taxi
+2023-03-01,Entertainment,195,Concert
+2023-03-02,Rent,1200,Monthly Rent
+2023-03-03,Rent,1200,Monthly Rent
+2023-03-06,Entertainment,96,Concert
+2023-03-08,Food,62,Restaurant
+2023-03-09,Freelance,615,Freelance Project
+2023-03-10,null,154,Cafe
+2023-03-11,Rent,1200,Monthly Rent
+2023-03-12,Transport,153,Fuel
+2023-03-13,Rent,1200,Monthly Rent
+2023-03-16,Transport,99,Fuel
+2023-03-17,Food,61,Cafe
+2023-03-18,null,1200,Monthly Rent
+2023-03-19,Salary,2802,Monthly Salary
+2023-03-20,Food,168,Cafe
+2023-03-21,Rent,1200,Monthly Rent
+2023-03-22,Salary,2016,Monthly Salary
+2023-03-23,Rent,1200,Monthly Rent
+2023-03-24,Freelance,652,Freelance Project
+2023-03-25,Transport,108,Bus
+2023-03-26,Salary,1403,Monthly Salary
+2023-03-27,Utilities,aa,null
+2023-03-29,null,121,Fuel
+null,Food,bb,Restaurant

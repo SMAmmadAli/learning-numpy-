@@ -30,16 +30,7 @@ read_file = pd.read_csv("result.csv", index_col= 0)
 # print(read_file["number"])
 # print(read_file["number"][3])
 
-# up_anas = read_file["number"][3]
 
-# up_anas = 52
-
-
-# update_col = up_anas
-
-# print(update_col)
-
-# print(read_file)
 # print("----------------------------------------------------")
 # Anas ka number update karein
 read_file.loc[3, "number"] = 51
@@ -200,8 +191,15 @@ df.fillna("Ammad", inplace=True)
 result = df[df["Calories"].str.lower() == "ammad"]
 
 
-print(result)
+# print(result)
 
 
 df.to_csv("data1.csv")
 
+# Data of Wrong Format
+
+# print(df.head())
+
+# Detect duplicate
+
+# print(df.duplicated())
